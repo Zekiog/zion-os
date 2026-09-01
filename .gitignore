@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build artifacts
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Generated docs
+/site/
+/docs/_build/
