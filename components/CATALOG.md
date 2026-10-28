@@ -26,8 +26,8 @@ and its current status.
 |-----------|------|--------------|--------|
 | `agent-mcp-ops` | Multi-agent swarm pattern, MCP integration | OTel (Spec 3), memory MCP tools | Branch protection pending |
 | `agent-zero` | Autonomous agent framework, HITL gates | Governance (Spec 4) | Stub |
-| `open-agent-platform` | No-code agent builder | Governance hooks (Aşama 3) | Stub |
-| `ottomator-agents` | Pre-built agent library | Capability tokens (Aşama 3) | Stub |
+| `open-agent-platform` | No-code agent builder | Governance hooks (Stage 3) | Stub |
+| `ottomator-agents` | Pre-built agent library | Capability tokens (Stage 3) | Stub |
 
 ## Layer 4 — Vertical Applications
 

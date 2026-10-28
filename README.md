@@ -44,12 +44,12 @@ domain agents, distributed tracing, and AI governance into one auditable fabric.
 
 | Phase | Focus | Outcome |
 |-------|-------|---------|
-| **Aşama 1** | Trust Fabric + Capability Security | Single sign-on + audit trail + tenant isolation |
-| **Aşama 2** | Memory Mesh + Semantic Layer | Shared context + business meaning + entity relationships |
-| **Aşama 3** | Agent Operations + Multi-Agent Swarm | Collaborative agents + governed creation + memory-aware execution |
-| **Aşama 4** | Observability + Distributed Tracing | Production debugging + cost attribution + performance optimization |
-| **Aşama 5** | Governance + Compliance Framework | Audit-ready AI systems + regulatory compliance + risk management |
-| **Aşama 6** | Federated Learning + Edge Coordination | Privacy-preserving AI coordination + edge learning + decentralized intelligence |
+| **Stage 1** | Trust Fabric + Capability Security | Single sign-on + audit trail + tenant isolation |
+| **Stage 2** | Memory Mesh + Semantic Layer | Shared context + business meaning + entity relationships |
+| **Stage 3** | Agent Operations + Multi-Agent Swarm | Collaborative agents + governed creation + memory-aware execution |
+| **Stage 4** | Observability + Distributed Tracing | Production debugging + cost attribution + performance optimization |
+| **Stage 5** | Governance + Compliance Framework | Audit-ready AI systems + regulatory compliance + risk management |
+| **Stage 6** | Federated Learning + Edge Coordination | Privacy-preserving AI coordination + edge learning + decentralized intelligence |
 
 See [`ARCHITECTURE.md`](./ARCHITECTURE.md) for the full layer definitions,
 [`CONNECTION_SPECS.md`](./CONNECTION_SPECS.md) for integration contracts,
