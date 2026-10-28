@@ -5,7 +5,7 @@ deliverables, adoption checks, and measurable outcomes.
 
 ---
 
-## Aşama 1 — Trust Fabric + Capability Security
+## Stage 1 — Trust Fabric + Capability Security
 
 **Goal:** Single sign-on + audit trail + tenant isolation foundation.
 
@@ -26,7 +26,7 @@ deliverables, adoption checks, and measurable outcomes.
 
 ---
 
-## Aşama 2 — Memory Mesh + Semantic Layer
+## Stage 2 — Memory Mesh + Semantic Layer
 
 **Goal:** Shared context + business meaning + entity relationships.
 
@@ -47,7 +47,7 @@ deliverables, adoption checks, and measurable outcomes.
 
 ---
 
-## Aşama 3 — Agent Operations + Multi-Agent Swarm
+## Stage 3 — Agent Operations + Multi-Agent Swarm
 
 **Goal:** Collaborative agents + governed creation + memory-aware execution.
 
@@ -68,7 +68,7 @@ deliverables, adoption checks, and measurable outcomes.
 
 ---
 
-## Aşama 4 — Observability + Distributed Tracing
+## Stage 4 — Observability + Distributed Tracing
 
 **Goal:** Production debugging + cost attribution + performance optimization.
 
@@ -89,7 +89,7 @@ deliverables, adoption checks, and measurable outcomes.
 
 ---
 
-## Aşama 5 — Governance + Compliance Framework
+## Stage 5 — Governance + Compliance Framework
 
 **Goal:** Audit-ready AI systems + regulatory compliance + risk management.
 
@@ -110,7 +110,7 @@ deliverables, adoption checks, and measurable outcomes.
 
 ---
 
-## Aşama 6 — Federated Learning + Edge Coordination
+## Stage 6 — Federated Learning + Edge Coordination
 
 **Goal:** Privacy-preserving AI coordination + edge learning + decentralized intelligence.
 
@@ -133,7 +133,7 @@ deliverables, adoption checks, and measurable outcomes.
 
 ## Quantified Impact Targets
 
-| Metric | Current | After Aşama 3 | After Aşama 6 |
+| Metric | Current | After Stage 3 | After Stage 6 |
 |--------|----------|---------------|---------------|
 | Agent cross-context sharing | 0% | 80%+ (semantic layer) | 95%+ (knowledge graph) |
 | Audit trail coverage | 30% | 90%+ (governance framework) | 99%+ (full tracing) |
@@ -158,5 +158,5 @@ deliverables, adoption checks, and measurable outcomes.
 
 ## Next 60 Days
 
-Complete Aşama 1 + Aşama 2. Every ecosystem component ships with single sign-on
+Complete Stage 1 + Stage 2. Every ecosystem component ships with single sign-on
 plus semantic memory plus knowledge graph.

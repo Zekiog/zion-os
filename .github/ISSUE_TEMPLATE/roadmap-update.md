@@ -1,6 +1,6 @@
 ---
 name: Roadmap update
-about: Update the Aşama 1–6 roadmap or the impact metrics table
+about: Update the Stage 1–6 roadmap or the impact metrics table
 title: "[ROADMAP] <short description>"
 labels: ["roadmap"]
 assignees: []
@@ -8,7 +8,7 @@ assignees: []
 
 ## Which phase?
 
-<!-- Aşama 1 / 2 / 3 / 4 / 5 / 6 -->
+<!-- Stage 1 / 2 / 3 / 4 / 5 / 6 -->
 
 ## Type of change
 

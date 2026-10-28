@@ -12,7 +12,7 @@ All notable changes to ZIONOS are documented here. Versions follow [SemVer](http
   3. Distributed Tracing + OpenTelemetry
   4. AI Governance + Compliance Framework
   5. Federated Learning + Edge Coordination
-- Six-phase roadmap (Aşama 1–6) with quantified impact targets.
+- Six-phase roadmap (Stage 1–6) with quantified impact targets.
 - Component catalog mapping every ZIONOS component to its layer.
 
 ### Strategic basis
